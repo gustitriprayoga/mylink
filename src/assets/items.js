@@ -1,60 +1,51 @@
 import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 import linkedin from '../assets/linkedin.jpg'
-import youtube from '../assets/youtube.jpeg'
+import youtube from '../assets/youtube.png'
 import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import saweria from '../assets/saweria.png'
+import sociabuzz from '../assets/sociabuzz.png'
+import facebook from '../assets/facebook.png'
 
-const items = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
-},
+const items = [
 {
-    "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "title": "Github",
+    "subtitle": "@gustitriprayoga | 🏡 Project Kecil-Kecilan ku",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/gustitriprayoga" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@gustitriprayogabrx |  Galery Ke Dua 🙂",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
-},
-{
-    "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
-    "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
-},
-{
-    "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
-    "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://instagram.com/gustitriprayogabrx" //instagram profile link 
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "Tent Studios | Jarang Ke Pake ",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "link": "https://www.youtube.com/channel/UCdNNzLIXZZeXv9Tu94kFJTw"//youtube channel link 
 },
 {
-    "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
-    "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "title": "Facebook",
+    "subtitle": "@gustitriprayoga | Dari Tahun Penjajahan ",
+    "image": facebook,
+    "link": "https://www.facebook.com/gustitriprayoga/"//youtube channel link 
+},
+{
+    "title": "Donate | Saweria",
+    "subtitle": "Yuk Suport Mengunakan Saweria !",
+    "image": saweria,
+    "link": "https://saweria.co/Gustitriprayoga" //Telegram Pofile 
+},
+{
+    "title": "Donate | Saweria",
+    "subtitle": "Bisa Suport Mulai Seribu Rupiah",
+    "image": sociabuzz,
+    "link": "https://sociabuzz.com/atuxbrx/tribe" //Telegram Pofile 
 }]
 
 export default items
