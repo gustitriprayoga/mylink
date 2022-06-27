@@ -17,7 +17,7 @@ const items = [
     "title": "Anonymous",
     "subtitle": "Send Anonymous Chat For Me",
     "image": anony,
-    "link": "ngl.link/gustitriprayogabrx" //Github Profile link
+    "link": "https://ngl.link/gustitriprayogabrx" //Github Profile link
 },
 {
     "title": "Github",
