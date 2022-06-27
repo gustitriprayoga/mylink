@@ -28,7 +28,7 @@ const items = [
 {
     "title": "Website",
     "subtitle": "Click To My Website | My Porto 🏡",
-    "image": github,
+    "image": website,
     "link": "https://gtp-bio.vercel.app/" //Github Profile link
 },
 {
